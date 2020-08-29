@@ -6,3 +6,7 @@ The robot is able to drive around randomly and avoids walls and big obsticles, h
 All code is written in python, gpio is used for accessing the HW
 
 Project will be complemented with a full guide with pictures etc.
+
+
+![Car1](/images/61955034981__7D449431-663B-40BF-BEC7-61D4C1D2B0A6.jpeg)
+Format: ![car one a boxed based car](url)
